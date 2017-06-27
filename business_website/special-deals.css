@@ -1,0 +1,84 @@
+*{	font-family: "Heebo" , sans-serif;
+	/*border:1px solid black;*/
+	color: #FFFFFF;
+}
+body {
+	background-image: url("/Users/account1/Documents/Coding/business_website/Pictures/Indonesi/indo1copy.jpg");
+    background-size: 100%;
+    background-color: #cccccc;
+ }
+
+ .bord img {
+	border-color:#5E5E5E;
+	background: #5E5E5E;
+	border-radius:50px;
+}
+
+nav {
+	float:right;
+    position:relative;
+    margin-right: 150px;
+    top:-85px;	
+}
+
+.bord img:hover{
+background-color: #701818;
+}
+
+.bord li{
+	list-style-type: none;
+	display:inline-block;
+	padding-left: 45px
+}
+
+.rectangle {
+text-decoration-color: white;
+border-radius: 15px;
+text-align:center;
+line-height: 200px;
+margin-top: 50px;
+margin-left:70px;
+}
+.rectangle2{
+text-decoration-color: white;
+border-radius: 15px;
+text-align:center;
+line-height: 350px;
+margin-top: 50px;
+margin-left: 70px;
+
+}
+.rectangle1{
+	margin-top: -206px;
+	text-decoration-color: white;
+	border-radius: 15px;
+	text-align:center;
+	line-height: 200px;
+	display: table;
+	float:right;	
+	margin-right: 70px;
+   
+}
+.rectangle3{
+	margin-top: -50px;
+	text-decoration-color: white;
+	border-radius: 15px;
+	text-align:center;
+	line-height: 200px;
+	display: inline-block;
+	float: right;
+	margin-right:-665px;
+	margin-top: -5px;
+}  
+
+.rectangle img{
+	border-color: white;
+	border-radius: 30px;
+	border: 30px;
+	
+
+}
+
+.rectangle img:hover{
+background-color: #701818;
+}
