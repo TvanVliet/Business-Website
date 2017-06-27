@@ -1,0 +1,123 @@
+*{	font-family: "Heebo" , sans-serif;
+	/*border:1px solid black;*/
+	color: #FFFFFF;
+}
+body {
+	background-image: url("Pictures/Indonesi/indo1copy.jpg");
+    background-size: 100%;
+    background-color: #cccccc;
+ }
+
+ .bord img {
+	border-color:#5E5E5E;
+	background: #5E5E5E;
+	border-radius:50px;
+}
+
+#navbar {
+    margin-left: 0;
+    display: inline-block;
+}
+
+#navbar img {
+    display: inline-block;
+    border-radius: 100%;
+}
+
+#navbar img:hover{
+background-color: white;
+}
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: -120px;
+    margin-left: 800px;
+    display: inline-block;
+    /*float: right;*/
+ }
+
+#navbar li {
+    display: inline-block;
+    height: 83px;
+    padding-top: 10px;
+    padding-right: 60px;	
+}
+
+.rectangle {
+text-decoration-color: white;
+border-radius: 15px;
+text-align:center;
+line-height: 200px;
+margin-top: 50px;
+margin-left:70px;
+border-color: white;
+}
+
+
+.rectangle img{
+	border-radius: 30px;
+}
+
+.rectangle h2{ 
+   position: absolute; 
+   top: 190px; 
+   left: -400px; 
+   width: 100%;
+   color: white; 
+}
+
+.rectangle1 img{
+	border-radius: 30px;
+	margin-top: 40px;
+	margin-left: 70px;
+}
+
+.rectangle1 h2{
+	position: absolute; 
+   top: 590px; 
+   left: 140px; 
+   width: 100%;
+   color: white; 
+}
+.rectangle2 img{
+	position: absolute;
+	border-radius: 30px;
+	margin-top: -499px;
+	margin-left: 810px;
+
+}
+
+.rectangle2 h2{
+	position:absolute;
+	top: 255px;
+	left: 860px;
+}
+
+.rectangle3 img{
+	position: absolute;
+	border-radius: 30px;
+	margin-top: -165px;
+	margin-left: 810px;
+
+}
+
+.rectangle3 h2{
+	position: absolute;
+	top: 575px;
+	left: 840px;
+}
+
+footer img {
+    margin-top: 80px;
+    align-items: center;
+    padding: 12px;
+    border-radius: 100px;
+
+}
+
+footer img:hover{
+background-color: white;
+border-radius: 100%;
+}
