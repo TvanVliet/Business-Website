@@ -1,0 +1,94 @@
+* { 
+	font-family: 'Heebo', sans-serif;
+/*	border-style: solid;
+	border-width: 1px;*/
+}
+body {
+	background-image: url("images/indonesia/indo3.jpg");
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 48px;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+}
+
+p.boxed {
+	display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    color: white;
+}
+
+#navbar {
+	margin-left: 0;
+	display: inline-block;
+}
+
+#navbar img {
+	display: inline-block;
+	border-radius: 100%;
+}
+
+#navbar img:hover{
+background-color: white;
+}
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 0px;
+    margin-left: 800px;
+    display: inline-block;
+ }
+
+#navbar li {
+	display: inline-block;
+	height: 83px;
+	padding-top: 10px;
+	padding-right: 60px;
+}
+
+.button button {
+	margin-left: 0;
+    background-image: url("images/buttons/buttonthai.jpg");
+    display: inline-block;
+    width: 20%;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.button a {
+	text-decoration: none;
+	font-family: 'Heebo', sans-serif;
+	font-size: 32px;
+	color: white;
+}
+
+.fotorama {
+	margin-top: 25px;
+
+}
+
+footer img {
+	margin-top: 10px;
+	align-items: center;
+	padding: 12px;
+	border-radius: 100px;
+
+}
+
+footer img:hover{
+background-color: white;
+border-radius: 100%;
+}
