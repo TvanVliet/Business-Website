@@ -1,0 +1,82 @@
+*{	font-family: "Heebo" , sans-serif;
+	/*border:1px solid black;*/
+	color: #FFFFFF;
+}
+/*/*//*background*/
+body {
+	background-image: url("/Users/account1/Documents/Coding/business_website/Pictures/Indonesi/indo1copy.jpg");
+    background-size: 100%;
+    background-color: #cccccc;
+}
+
+footer img {
+    margin-top: 90px;
+    align-items: center;
+    padding: 12px;
+    border-radius: 100%
+
+}
+p {
+	font-size: 48px;
+	margin-left: -650px;
+	font-weight: bold;
+	text-align: center;
+}
+
+footer img:hover{
+background-color: white;
+border-radius: 100%;
+}
+#navbar {
+    margin-left: 0;
+    display: inline-block;
+}
+
+#navbar img {
+    display: inline-block;
+    border-radius: 100%;
+}
+
+#navbar img:hover{
+background-color: white;
+}
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: -120px;
+    margin-left: 800px;
+    display: inline-block;
+    /*float: right;*/
+ }
+
+#navbar li {
+    display: inline-block;
+    height: 83px;
+    padding-top: 10px;
+    padding-right: 60px;
+}
+
+#Booking {
+	width: 200px;
+	height: 60px;
+	background: #552020;
+	text-align: center;
+	vertical-align: baseline;
+	line-height: 60px;
+	text-decoration: none;
+	margin: 20px;
+	margin-left: 170px;
+	margin-top: 80px;
+	border-radius: 10px;
+	border-color: none;
+
+}
+
+#Booking a:hover{
+	text-decoration:none;
+	font-size: 20px;
+}
+
+
